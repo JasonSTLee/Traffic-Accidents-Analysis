@@ -67,6 +67,10 @@ This graph shows 4 pie charts of varying car accident severity. Within each of t
 To begin with finding zipcodes that have a high number of bad accidents, below are zipcodes with the highest percentage of total accidents that are high in accident and weather severity.
 ![output7](https://github.com/user-attachments/assets/071952f4-299f-479a-8995-42f260d6421a)
 
+To explore further, I want to rank the rain and snow (weather severity) for these zip codes to view how bad the historical weather conditions are. This grahp ranks 2 years of historical data for rain and snow. 
+![output](https://github.com/user-attachments/assets/4def70b3-4d4e-4364-8039-707bd1eeae98)
+
+
 We have confirmed these metrics are correlated to the number of accidents that occur in each zip code:
 - Population
 - Number of commuters using cars
