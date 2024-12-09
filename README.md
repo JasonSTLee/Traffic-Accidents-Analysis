@@ -13,7 +13,7 @@ In this project, I simulate working as an **analyst for an insurance company loo
 - Historical Weather api
 - [Nominatim api](https://nominatim.org/) (Latitude and Longitude data)
 
-**Notebook can be found [here](https://github.com/JasonSTLee/Greed-Flation/blob/main/alpha_api.ipynb)**
+**Notebook can be found [here](https://github.com/JasonSTLee/Traffic-Accidents-Analysis/blob/main/main.ipynb)**
 
 ## Questions to ask
 
