@@ -36,6 +36,8 @@ Similar to the graph above, there are direct correlations for number of car owne
 
 Accidents occur around rush hour times when commuters are driving to work and back to home around: 6am - 8am and 2pm - 5pm. This aligns when most people are driving, although I am surprised that number of accidents lower signicantly at 7pm.
 
+---
+
 **3.** Is there an increase of accidents during rush hours?
 ![output4](https://github.com/user-attachments/assets/497b5199-10a6-4341-a7d9-56c5d662a002)
 
